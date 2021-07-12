@@ -1,0 +1,38 @@
+.achievement{
+    text-align: center;
+}
+
+
+.teach {
+    margin-bottom: 20px;
+    display: inline;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.teach_111{
+    border-radius: 20px;
+    margin-right: 20px;
+    
+}
+
+
+.Name_First{
+   margin-left: 30px;
+    max-height: 200px;
+    font-size: 20px;
+}
+
+.Name_Second{
+    margin-left: 30px;
+    max-height: 200px;
+    font-size: 20px;
+}
+
+.Name_Third{
+    margin-left: 50px;
+    max-height: 200px;
+    font-size: 20px;
+}
+

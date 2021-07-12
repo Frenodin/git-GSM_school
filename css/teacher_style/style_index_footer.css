@@ -1,0 +1,16 @@
+.textarea{
+	
+    border-radius: 4px;
+    background-color: #1e2d49;
+    height: 52px;
+    padding: 16px 20px;
+    width: 100%;
+    color: #fff;
+    border: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

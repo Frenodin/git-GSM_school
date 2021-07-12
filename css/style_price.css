@@ -1,0 +1,38 @@
+#content article {
+  top: -40px;
+}
+div, section, header, footer, article {
+  position: relative;
+}
+* {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+article {
+  display: block;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4;
+  background-color: #FFFFFF;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.price_ac{
+  text-align: center;
+}
+
+.justifyleft{
+  text-align: center;
+}
+
+.Second_language{
+  text-align: center;
+  padding: 20px;
+}
+
